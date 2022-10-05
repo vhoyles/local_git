@@ -1,4 +1,4 @@
-# Set Up Local Repository First
+# Local Repository First
 
 This is text in my README.
 
