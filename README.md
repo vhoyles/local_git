@@ -1,5 +1,3 @@
 # Set Up Local Repository First
 
-This is text in my README.
-
-And here is some more text.
+This code is for setting up a local repository in R and then uploading to GitHub.
